@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Burris19/NodePractica/issues"
   },
-  "homepage": "https://github.com/Burris19/NodePractica"
+  "homepage": "https://github.com/Burris19/NodePractica",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
